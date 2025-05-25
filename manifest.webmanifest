@@ -1,0 +1,18 @@
+{
+  "name": "ASER_Test_APP",
+  "short_name": "ASER_Test_APP",
+  "id": "com.aser.test",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "144.png",
+        "sizes": "144x144"
+      },{
+        "src": "192.png",
+        "sizes": "192x192"
+      }]
+}
